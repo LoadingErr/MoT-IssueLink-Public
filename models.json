@@ -1,7 +1,7 @@
 [ {
 	"adult" : [ {	
 		"name"		: "Revisited IssueLink",
-		"author"	: "IssueLink",
+		"author"	: "IssueLink, 0xDEADBEEF",
 		"hylian_shield"	: 0,
 		"mirror_shield"	: 0
 	} ]
